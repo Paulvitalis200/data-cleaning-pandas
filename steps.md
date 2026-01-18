@@ -20,3 +20,5 @@ form of statistic eg mean or median. To get even more exciting, we can use a ML 
 We can visualize the distribution of our amountusd data. We can use matplotlib for this.
 Also we can measure the difference between the mean and median and the mean and the mean value which
 we can calculate to see which one gives us less of an error.
+2. Infer the values on the client Tier. We can infer the Mode. e.g if Gold occurs most frequently,
+we will use that as the mode
